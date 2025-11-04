@@ -6,6 +6,14 @@ This repository contains the work of the following three undergraduate Data Scie
 - Myli Brown
 - Lucas Jones
 
+### Inspiration
+This project was inspired by:
+	•	Classic Reinforcement Learning literature, especially “Reinforcement Learning: An Introduction” by Richard S. Sutton and Andrew G. Barto, which first introduced SARSA as an on-policy temporal-difference learning algorithm.
+	•	The OpenAI Gym environment design, which standardizes how agents and environments interact through a simple reset() / step() interface.
+	•	Educational examples from the “Python Machine Learning” and “Deep Reinforcement Learning Hands-On” books, which emphasize clarity and transparency in small-scale RL simulations.
+	•	The idea of building from scratch — rather than relying on prebuilt Gym environments — to help visualize how reinforcement learning actually unfolds step by step.
+
+This version of Gridworld is intentionally minimalist and console-based to make the algorithm’s inner workings visible, explainable, and teachable — perfect for classroom demonstration.
 
 ### Overview
 
