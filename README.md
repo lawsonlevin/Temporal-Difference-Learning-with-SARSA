@@ -18,12 +18,14 @@ This project was inspired by:
 
 This version of Gridworld is intentionally minimalist and console-based to make the algorithm’s inner workings visible, explainable, and teachable — perfect for classroom demonstration.
 
+
 ### Overview
 
 This project implements SARSA (State–Action–Reward–State–Action) — an on-policy reinforcement learning algorithm — in a simple 4×4 Gridworld environment
 
 The agent starts in the top-left corner and must reach the bottom-right terminal cell while minimizing steps.
 Each step gives a small penalty (-0.01) to encourage efficiency, and reaching the goal gives a reward of +1.0.
+
 
 ### How the algorithm is trained and evaluated
 
