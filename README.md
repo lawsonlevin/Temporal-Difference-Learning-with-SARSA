@@ -6,9 +6,8 @@ This repository contains the work of the following three undergraduate Data Scie
 - Myli Brown
 - Lucas Jones
 
-SARSA Gridworld — Reinforcement Learning Demo
 
-Overview
+### Overview
 
 This project implements SARSA (State–Action–Reward–State–Action) — an on-policy reinforcement learning algorithm — in a simple 4×4 Gridworld environment built from scratch using Python + Gym-style design.
 
