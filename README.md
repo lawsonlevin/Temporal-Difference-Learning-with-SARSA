@@ -10,7 +10,6 @@ To run the code (SARSA.ipynb) on your own machine, you will need to install the 
 - numpy
 - gymnasium
 
-### Inspiration
 This project was inspired by:
 - Classic Reinforcement Learning literature, especially _Reinforcement Learning: An Introduction_ by Richard S. Sutton and Andrew G. Barto, which first introduced SARSA as an on-policy temporal-difference learning algorithm.
 - The OpenAI Gym environment design, which standardizes how agents and environments interact through a simple reset() / step() interface.
