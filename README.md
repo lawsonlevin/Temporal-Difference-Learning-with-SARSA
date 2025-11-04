@@ -1,7 +1,7 @@
 # DASC 41103 - Reinforcement Learning Honors Project
 ## Temporal Difference Learning with SARSA
 
-This repository contains the work of the following three undergraduate Data Science students from the University of Arkansas:
+This repository was put together by three undergraduate Data Science students from the University of Arkansas:
 - Lawson Levin
 - Myli Brown
 - Lucas Jones
