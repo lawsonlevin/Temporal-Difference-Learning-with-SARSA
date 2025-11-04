@@ -6,7 +6,7 @@ This repository was put together by three undergraduate Data Science students fr
 - Myli Brown
 - Lucas Jones
 
-To run the code (SARSA.ipynb) on your own machine, you will need to install the following Python libraries.
+To run the code (SARSA.ipynb) on your own machine, you will need to install the following Python libraries:
 - numpy
 - gymnasium
 
