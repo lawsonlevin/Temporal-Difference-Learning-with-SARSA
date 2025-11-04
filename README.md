@@ -6,7 +6,7 @@ This repository contains the work of the following three undergraduate Data Scie
 - Myli Brown
 - Lucas Jones
 
-To run this prject on your own machine, you will need to install the following Python libraries.
+To run the code (SARSA.ipynb) on your own machine, you will need to install the following Python libraries.
 - numpy
 - gymnasium
 
