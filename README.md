@@ -6,6 +6,10 @@ This repository contains the work of the following three undergraduate Data Scie
 - Myli Brown
 - Lucas Jones
 
+To run this projet on your own machine, you will need to install the following Python libraries.
+- numpy
+- gymnasium
+
 ### Inspiration
 This project was inspired by:
 - Classic Reinforcement Learning literature, especially _Reinforcement Learning: An Introduction_ by Richard S. Sutton and Andrew G. Barto, which first introduced SARSA as an on-policy temporal-difference learning algorithm.
